@@ -19,6 +19,7 @@ You will need the following things properly installed on your computer.
 * change into the new directory
 * `npm install`
 * `bower install`
+* Open up `./config/environment.template.js`, add API keys for Facebook & Google, save as `./config/environment.js`
 
 ### Running / Development
 The included live-development server has automatically reloads on file changes can be started with the following command.
